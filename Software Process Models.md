@@ -20,7 +20,7 @@
     4. **Integration and System Testing**: Integrate units and test the system as a whole.
     5. **Operation and Maintenance**: Deploy the system and maintain it over time.
 
-![[Pasted image 20250113044039.png]]
+	![[Pasted image 20250113044039.png]](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/Pasted%20image%2020250113044039.png)
 
 - **Advantages**:
     
@@ -71,7 +71,7 @@
     - Features are prioritized, and the most important ones are implemented first.  
     - Users or surrogate users provide feedback after each increment.
 
-![[Pasted image 20250113045527.png]]
+	![[Pasted image 20250113045527.png]](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/Pasted%20image%2020250113045527.png)
 
 - **Agile development principles**:
     
@@ -103,7 +103,7 @@
 
 The most widely used XP techniques (highlighted in red on the following pic):
 
-![[Pasted image 20250113050234.png]]
+![[Pasted image 20250113050234.png]](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/Pasted%20image%2020250113050234.png)
 
 #### **6. Choosing the Right Model**
 

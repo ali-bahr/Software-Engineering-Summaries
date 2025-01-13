@@ -31,7 +31,7 @@
 - **Hybrid**: Part of the software runs on the customer’s computer, and part runs on the developer’s servers.
 - **Software Service**: All features are implemented on the developer’s servers, accessed via a browser or mobile app.
 
-![[Pasted image 20250113021020.png]]
+![[Pasted image 20250113021020.png]](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/Pasted%20image%2020250113021020.png)
 
 
 #### **4. Product Vision**
