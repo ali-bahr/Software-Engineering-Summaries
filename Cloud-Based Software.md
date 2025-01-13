@@ -40,7 +40,7 @@
 
 #### **4. Docker**
 
-![[Pasted image 20250113103105.png]]
+![[Pasted image 20250113103105.png]](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/images/Pasted%20image%2020250113103105.png)
 
 - **Docker Components**:
     
@@ -111,7 +111,7 @@
 - **Information leakage:** if there is multiple users from multiple organizations you must separate their information.  
 	
 - **Multitenant vs. Multi-Instance Databases**:
-	    ![[Pasted image 20250113111215.png]]
+	    ![[Pasted image 20250113111215.png]](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/images/Pasted%20image%2020250113111215.png)
     - **Multitenant**: 
 	    - Single database shared by multiple customers. 
 	    - Database is partitioned so that customer companies have their own space and can store and access their own data.
@@ -129,9 +129,9 @@
             
         - **Disadvantages**: Security risks (data leakage), inflexibility, database security breach affects all customers, increased complexity.
         
-        ![[Pasted image 20250113111536.png]]
+        ![[Pasted image 20250113111536.png]](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/images/Pasted%20image%2020250113111536.png)
 		
-		![[Pasted image 20250113111611.png]]
+		![[Pasted image 20250113111611.png]](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/images/Pasted%20image%2020250113111611.png)
 		
 	- **Multi-Instance( Single Tenant )**: Separate databases for each customer.
 	    - Each instance of the software can be tailored and adapted to a customer’s needs. 
@@ -142,7 +142,7 @@
             
         - **Disadvantages**: Higher cost, complex update management.
 		
-		![[Pasted image 20250113111653.png]]
+		![[Pasted image 20250113111653.png]](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/images/Pasted%20image%2020250113111653.png)
 
 
 #### **9. Scalability and Resilience**
@@ -161,7 +161,7 @@
 		
 	- Database updates are mirrored so that the standby database is a working copy of the operational database
 	
-	![[Pasted image 20250113114313.png]]
+	![[Pasted image 20250113114313.png]](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/images/Pasted%20image%2020250113114313.png)
 
 
 
