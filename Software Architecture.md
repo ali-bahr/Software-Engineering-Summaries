@@ -72,7 +72,7 @@
 
 - **Architectural Guidelines To Control Complexity**:
 
-	![[Pasted image 20250113080134.png]]
+	![[Pasted image 20250113080134.png]](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/Pasted%20image%2020250113080134.png)
 
 
 
@@ -97,8 +97,7 @@
         
     - **Communication**: Typically uses HTTP, with data represented in XML or JSON.
 
-	 ![[Pasted image 20250113081044.png]]	
-        
+	![[Pasted image 20250113081044.png]](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/Pasted%20image%2020250113081044.png)        
 - **Multi-Tier Architecture**:
     
     - **Web Server**: Handles client requests.
@@ -107,7 +106,7 @@
         
     - **Database Server**: Stores and retrieves data.
 
-	![[Pasted image 20250113081125.png]]
+		![[Pasted image 20250113081125.png]](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/Pasted%20image%2020250113081125.png)
 
 - **Service-Oriented Architecture (SOA)**:
     
@@ -117,7 +116,7 @@
         
     - **Resilience**: More resilient to failure due to distributed nature.
 	
-	![[Pasted image 20250113081301.png]]
+		![[Pasted image 20250113081301.png]](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/Pasted%20image%2020250113081301.png)
 	
 
 #### **8. Architectural Choices**
