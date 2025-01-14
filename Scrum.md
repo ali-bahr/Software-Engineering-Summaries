@@ -4,7 +4,7 @@
 
 #### **2. Scrum Framework**
 
-![](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/Pasted%20image%2020250113070045.png)
+![](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/images/Pasted%20image%2020250113070045.png)
 
 - **Scrum Team**: A cross-functional, self-organizing team responsible for delivering a potentially shippable product increment every sprint.
     
@@ -18,7 +18,7 @@
 
 - **Scrum Pillars**:
  
-	![[Pasted image 20250113071651.png]](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/Pasted%20image%2020250113071651.png)
+	![[Pasted image 20250113071651.png]](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/images/Pasted%20image%2020250113071651.png)
 
 - **Scrum Values**:
     
