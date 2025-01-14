@@ -79,7 +79,7 @@
 - **Local Storage**: Stores larger amounts of data persistently across sessions.
 - **JWT (JSON Web Tokens)**: Used for authentication and authorization. Consists of a header, payload, and signature.
 
-![[Pasted image 20250113033938.png]](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/Pasted%20image%2020250113033938.png)
+![[Pasted image 20250113033938.png]](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/images/Pasted%20image%2020250113033938.png)
 
 #### **9. OAuth**
 
@@ -95,7 +95,7 @@
 		1. Client id: can be used directly by user.
 		2. Client Secret: is only used by the server.
 
-	![[Pasted image 20250113034040.png]](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/Pasted%20image%2020250113034040.png)
+	![[Pasted image 20250113034040.png]](https://github.com/ali-bahr/Software-Engineering-Summaries/blob/main/images/Pasted%20image%2020250113034040.png)
 
 
 ### **Question Bank for Lecture 2: Web Basics & Request Lifecycle**
